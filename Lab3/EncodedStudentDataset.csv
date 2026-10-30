@@ -1,0 +1,6 @@
+Name,Education,Placed,Placed_Encoded,Education_Encoded,Gender_Female,Gender_Male,City_Bhopal,City_Indore,City_Ujjain
+Aman,UG,Yes,1,0,0,1,0,1,0
+Priya,PG,Yes,1,1,1,0,1,0,0
+Rahul,UG,No,0,0,0,1,0,0,1
+Neha,Doctorate,Yes,1,2,1,0,0,1,0
+Rohit,PG,No,0,1,0,1,1,0,0

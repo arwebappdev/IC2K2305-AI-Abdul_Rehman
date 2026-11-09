@@ -26,9 +26,6 @@ The experiments cover fundamental AI problem-solving techniques, heuristic searc
 ## Repository Structure
 
 - `Lab1/` to `Lab7/`: Individual laboratory experiments.
-- `datasets/`: Datasets used in experiments.
-- `models/`: Trained machine learning and deep learning models.
-- `docs/`: Reports, flowcharts, and architecture diagrams.
 - `requirements.txt`: Python dependencies.
 
 ## Technologies Used
@@ -52,7 +49,7 @@ git clone REPOSITORY_URL
 Navigate to the project directory:
 
 ```bash
-cd IC-2K23-05-AI-Abdul-Rehman
+cd IC2K2305-AI-Abdul_Rehman
 ```
 
 Create and activate a virtual environment:
